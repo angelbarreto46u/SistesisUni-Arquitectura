@@ -12,11 +12,9 @@ Uso de Mermaid.js para modelar arquitectura mediante código en repositorios y e
 ### 2.2 Inclusión en Repositorios GitHub (README.md)
 GitHub renderiza nativamente bloques Mermaid utilizando el bloque de código correspondiente[cite: 1]:
 
-```text
 ```mermaid
 graph TD
     A[Usuario] --> B(SISTESIS-UNI)
-```
 ```
 
 ---
